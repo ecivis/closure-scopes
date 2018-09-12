@@ -1,0 +1,7 @@
+{
+    "name":"ClosureScopes",
+    "app":{
+        "cfengine":"lucee@5.2"
+    },
+    "save":true
+}
